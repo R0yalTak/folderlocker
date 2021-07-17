@@ -14,3 +14,8 @@ NOT FOR LONG TERM USE
 4.Press select
 
 5.Press lock or Unlock
+
+
+-todo-
+create an override so that even admins cant change rule with FL.
+optimize UI.
