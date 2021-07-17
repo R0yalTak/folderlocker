@@ -1,4 +1,6 @@
 # folderlocker
+royalsrealm.xyz
+
 Creates runtime rules to lock folders, tested on Win 10 64x only.
 FL creates a rule that the current user(s) cant access a file/folder.
 
